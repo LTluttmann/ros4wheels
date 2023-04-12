@@ -1,7 +1,23 @@
 # Jetson_NX_robot
 
 #### Description
-户外送货机器人，基于Jetson Xavier NX
+
+###### Setup
+
+On ARM based devices like the Jetson Nano, install miniforge via 
+
+```
+sudo apt update --yes
+sudo apt upgrade --yes
+
+# Get Miniforge and make it the main Python interpreter
+wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-aarch64.sh -O ~/miniforge.sh
+bash ~/miniforge.sh -b -p ~/miniforge
+rm ~/miniforge.sh
+
+echo "PATH=$PATH:$HOME/miniforge/bin" >> .bashrc
+source .bashrc
+```
 
 #### Software Architecture
 Software architecture description
