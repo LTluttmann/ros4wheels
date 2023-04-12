@@ -1,29 +1,29 @@
 # Jetson_NX_robot
 
-#### 介绍
+#### Description
 户外送货机器人，基于Jetson Xavier NX
 
-#### 软件架构
-软件架构说明
+#### Software Architecture
+Software architecture description
 
-
-#### 安装教程
+#### Installation
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
-#### 使用说明
+#### Instructions
 
-1.  运行/home/ros/ros_code/jetson_nx_robot/sys/auto_start_ros.sh
+1.  xxxx
 2.  xxxx
 3.  xxxx
 
-#### 参与贡献
+#### Contribution
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  Fork the repository
+2.  Create Feat_xxx branch
+3.  Commit your code
+4.  Create Pull Request
+
 
 
